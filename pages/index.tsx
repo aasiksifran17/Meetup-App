@@ -53,6 +53,11 @@ export default function Home() {
         <p className='text-lg text-neutral-400 mb-6'>
           No sign-ups, no downloads—just smooth, secure video calls with MeetUp. Stay connected with ease.
         </p>
+        <p className='text-lg text-neutral-400 mb-6'>
+        <Link href="https://github.com/aasiksifran17" className="hover:opacity-75 text-gradient bg-gradient-to-br from-indigo-300 to-indigo-700">
+          Made by Aasik
+        </Link> 
+        </p>
 
         <div className='flex flex-col gap-4 max-w-xs w-full'>
           {/* Input for entering a room ID */}
@@ -73,10 +78,10 @@ export default function Home() {
       </div>
 
       <div className="w-full h-[5vh] bg-neutral-800 flex gap-1 items-center justify-center text-neutral-500">
-        {/* Footer section with a link to sad.codes */}
+        {/* Footer section with a link to Aasik */}
         Made with ❤️ by
-        <Link href="https://sad.codes" className="hover:opacity-75 text-gradient bg-gradient-to-br from-indigo-300 to-indigo-700">
-          sad.codes
+        <Link href="https://github.com/aasiksifran17" className="hover:opacity-75 text-gradient bg-gradient-to-br from-indigo-300 to-indigo-700">
+          Aasik
         </Link>
       </div>
     </div>
