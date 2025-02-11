@@ -60,7 +60,7 @@ To run the project locally on your machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sad7920/MeetUp
+   git clone https://github.com/aasiksifran17/Meetup-App.git
    ```
 
 2. Navigate to the project directory:
@@ -84,7 +84,7 @@ To run the project locally on your machine, follow these steps:
 
 The application is hosted and accessible online. You can use the following link to access the live version:
 
-[MeetUp - Instant Video Calling](https://meetup-production-40ff.up.railway.app/)
+[MeetUp - Instant Video Calling]()
 
 ## Architecture Diagram
 
@@ -115,3 +115,7 @@ The app's architecture follows a **Monolithic structure** with a mesh topology f
 This project is a simple but powerful video calling app built with modern technologies. The app showcases the use of **Monolithic Architecture** combined with **WebRTC** for real-time communication, making it both scalable and performant. With its peer-to-peer connectivity, no centralized media servers are required, allowing for smooth and efficient video calls.
 
 Feel free to explore the code, suggest improvements, or use the app to create your own video rooms and connect with others!
+
+## Author
+K Mohamed Aasik
+
